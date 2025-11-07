@@ -1,0 +1,35 @@
+.ota{
+    width: 1440px;
+    height: 1303px;
+}
+header{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 31px;
+}
+h1{
+    padding: 77px;
+    text-align: center;
+}
+.ota2{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-weight: 900;
+    font-size: 47px;
+    flex-direction: row;
+}
+.bola{
+    background-color: red;
+    width: 558px;
+    height: 452px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 31px;
+    margin-top: 120px;
+}
